@@ -20,7 +20,7 @@ hi Normal guifg=#e5e5e5 ctermfg=253 guibg=#262626 gui=NONE cterm=NONE
 " hi NonText              guibg=bg guifg=#e29aeb ctermfg=176
 " hi SpecialKey           gui=NONE guibg=#103040 ctermbg=235 guifg=#324262 ctermfg=238
 " hi VertSplit            gui=NONE guifg=#000000 ctermfg=0 guibg=#686868 ctermbg=242
-hi Boolean        guifg=#776CC4 ctermfg=98  ctermbg=NONE gui=NONE guibg=bg cterm=NONE
+hi Boolean        guifg=#af97df ctermfg=98  ctermbg=NONE gui=NONE guibg=bg cterm=NONE
 hi Character      guifg=#9d7ff2 ctermfg=141 ctermbg=NONE gui=NONE guibg=bg cterm=NONE
 hi Comment        guifg=#585858 ctermfg=240 ctermbg=NONE gui=NONE cterm=NONE
 hi Conditional    guifg=#F6DA7B ctermfg=222 ctermbg=NONE gui=NONE guibg=bg cterm=NONE
