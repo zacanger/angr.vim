@@ -16,10 +16,6 @@ let g:colors_name = 'z'
 hi Normal guifg=#e5e5e5 ctermfg=253 guibg=#262626 gui=NONE cterm=NONE
 
 " Misc {{{1
-" hi NonText              gui=NONE guibg=#000000 ctermbg=0 guifg=#95D5F1 ctermfg=117
-" hi NonText              guibg=bg guifg=#e29aeb ctermfg=176
-" hi SpecialKey           gui=NONE guibg=#103040 ctermbg=235 guifg=#324262 ctermfg=238
-" hi VertSplit            gui=NONE guifg=#000000 ctermfg=0 guibg=#686868 ctermbg=242
 hi Boolean        guifg=#af97df ctermfg=98  ctermbg=NONE gui=NONE guibg=bg cterm=NONE
 hi Character      guifg=#9d7ff2 ctermfg=141 ctermbg=NONE gui=NONE guibg=bg cterm=NONE
 hi Comment        guifg=#585858 ctermfg=240 ctermbg=NONE gui=NONE cterm=NONE
@@ -67,8 +63,6 @@ hi VertSplit      guifg=#3a3a3a ctermfg=237 guibg=#3a3a3a ctermbg=237 gui=NONE c
 hi WildMenu       guifg=#101010 ctermfg=0   guibg=#f6da7b ctermbg=222 gui=bold cterm=NONE
 
 " Cursor lines {{{1
-" hi CursorColumn         gui=NONE guibg=#3D4646 ctermbg=238 " Uncomment for lighter line bgcolor: #202129
-" hi CursorLine           gui=NONE guibg=#3D4646 ctermbg=238 " Uncomment for lighter line bgcolor: #202129
 hi CursorColumn ctermfg=NONE guibg=#303030 ctermbg=236 gui=NONE cterm=NONE
 hi CursorLine   ctermfg=NONE guibg=#303030 ctermbg=236 gui=NONE cterm=NONE
 
@@ -96,8 +90,6 @@ hi DiffText   guifg=#ff5f5f ctermfg=203 guibg=#5f0000 ctermbg=52 gui=bold cterm=
 hi SignColumn ctermfg=NONE guibg=#3a3a3a ctermbg=237 gui=NONE cterm=NONE
 
 " Folds {{{1
-" hi FoldColumn           gui=NONE guibg=#305060 ctermbg=239 guifg=#b0d0e0 ctermfg=152
-" hi Folded               gui=bold guibg=#305060 ctermbg=239 guifg=#b0d0e0 ctermfg=152
 hi FoldColumn ctermfg=102 ctermbg=237 cterm=NONE guifg=#878787 guibg=#3a3a3a gui=NONE
 hi Folded     ctermfg=102 ctermbg=237 cterm=NONE guifg=#878787 guibg=#3a3a3a gui=NONE
 
@@ -106,11 +98,6 @@ hi IncSearch guifg=#c0c0c0 ctermfg=7 guibg=#005fff ctermbg=27  gui=NONE cterm=NO
 hi Search    guifg=#c0c0c0 ctermfg=7 guibg=#df005f ctermbg=161 gui=NONE cterm=NONE
 
 " Messages {{{1
-" hi Error                guifg=#FFFF99 ctermfg=228  guibg=#FF0000 ctermbg=9
-" hi ErrorMsg             gui=NONE guifg=#FFFF99 ctermfg=228 guibg=#FF0000 ctermbg=9
-" hi ModeMsg              gui=NONE guibg=#82c057 ctermbg=107 guifg=#C8F482 ctermfg=192
-" hi MoreMsg              gui=bold guifg=#C8F482 ctermfg=192 guibg=bg
-" hi WarningMsg           gui=bold guifg=#FF0000 ctermfg=9 guibg=bg
 hi Error      guifg=#eeeeee ctermfg=255 guibg=#df0000 ctermbg=160  gui=NONE cterm=NONE
 hi ErrorMsg   guifg=#eeeeee ctermfg=255 guibg=#df0000 ctermbg=160  gui=NONE cterm=NONE
 hi ModeMsg    guifg=#afff87 ctermfg=156               ctermbg=NONE gui=bold cterm=bold
