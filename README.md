@@ -11,6 +11,6 @@ and [janah](https://github.com/mhinz/vim-janah).
 
 Copy `colors/angr.vim` to your vim colors dir.
 For vim, this is `~/.vim/colors/`. For Neovim, `~/.config/init/nvim/colors/`
-Or use your plugin manager. NeoBundle example: `:NeoBundleDirectInstall zacanger/angr.vim`.
+Or use your plugin manager. NeoBundle example: `:NeoBundleDirectInstall 'zacanger/angr.vim'`.
 
 License: WTFPL
