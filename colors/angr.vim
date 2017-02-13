@@ -55,7 +55,7 @@ hi String         guifg=#87afdf ctermfg=110 ctermbg=NONE gui=NONE cterm=NONE
 hi Structure      guifg=#95d5f1 ctermfg=117 ctermbg=NONE gui=NONE guibg=bg cterm=NONE
 hi Tag            guifg=#55747c ctermfg=66  ctermbg=NONE gui=NONE guibg=bg cterm=NONE
 hi Title          guifg=#9d7ff2 ctermfg=141 ctermbg=NONE gui=bold guibg=bg cterm=NONE
-hi Todo           guifg=#ffdfaf ctermfg=223 ctermbg=NONE gui=NONE cterm=NONE
+hi Todo           guifg=#ffdfaf ctermfg=223 ctermbg=NONE gui=NONE cterm=NONE guibg=bg
 hi Type           guifg=#87dfaf ctermfg=115 ctermbg=NONE gui=NONE cterm=NONE
 hi Typedef        guifg=#95d5f1 ctermfg=117 ctermbg=NONE gui=NONE guibg=bg cterm=NONE
 hi Underlined     guifg=#c98de6 ctermfg=192 ctermbg=NONE gui=underline guibg=bg cterm=NONE
