@@ -98,8 +98,8 @@ hi IncSearch guifg=#c0c0c0 ctermfg=7 guibg=#005fff ctermbg=27  gui=NONE cterm=NO
 hi Search    guifg=#c0c0c0 ctermfg=7 guibg=#df005f ctermbg=161 gui=NONE cterm=NONE
 
 " Messages {{{1
-hi Error      guifg=#eeeeee ctermfg=255 guibg=#df0000 ctermbg=160  gui=NONE cterm=NONE
-hi ErrorMsg   guifg=#eeeeee ctermfg=255 guibg=#df0000 ctermbg=160  gui=NONE cterm=NONE
+hi Error      guifg=#eeeeee ctermfg=255 guibg=#df005f ctermbg=161  gui=NONE cterm=NONE
+hi ErrorMsg   guifg=#eeeeee ctermfg=255 guibg=#df005f ctermbg=161  gui=NONE cterm=NONE
 hi ModeMsg    guifg=#afff87 ctermfg=156               ctermbg=NONE gui=bold cterm=bold
 hi MoreMsg    guifg=#c0c0c0 ctermfg=7   guibg=#005fdf ctermbg=26   gui=NONE cterm=NONE
 hi WarningMsg guifg=#c0c0c0 ctermfg=7   guibg=#005fdf ctermbg=26   gui=NONE cterm=NONE
