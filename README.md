@@ -16,9 +16,10 @@ Copy `colors/angr.vim` to your vim colors dir.
 For vim, this is `~/.vim/colors/`. For Neovim, `~/.config/init/nvim/colors/`
 Or use your plugin manager. NeoBundle example: `:NeoBundleDirectInstall 'zacanger/angr.vim'`.
 
-### Contributors
+### Thanks
 
-* [watsoncj](https://github.com/watsoncj)
+[watsoncj](https://github.com/watsoncj) fixed some inconsistencies and made the
+Airline theme.
 
 ### License
 
