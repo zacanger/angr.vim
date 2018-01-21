@@ -21,4 +21,4 @@ Airline theme.
 
 ### License
 
-[WTFPL](./LICENSE.md)
+[MIT](./LICENSE.md)
