@@ -1,6 +1,6 @@
 # angr.vim
 
-![screenshot](http://zacanger.com/assets/angr-vim.png)
+![screenshot](/screenshot.png?raw=true)
 
 The screenshot is using the angr
 [airline theme](https://github.com/vim-airline/vim-airline-themes).
